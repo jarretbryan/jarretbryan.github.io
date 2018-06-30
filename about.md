@@ -4,18 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Hi, my name is Jarret. I'm a technologist and web developer in training, currently learning at the Flatiron School. I received my Bachelor of Arts in Science and Technology Studies from Brown University. I'm very much interested in exploring the ways tech can further activism and social justice. I was born in NYC, raised in Brooklyn, I currently live in Harlem, and I'm subscribed to far too many podcasts.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+## Projects:
+Coming Soon...
 
-## Themes
+### Contact Me:
 
-## Browser Support
+[Github](https://github.com/jarretbryan)
 
-## Installation
+[LinkedIn](https://www.linkedin.com/in/jarret-bryan-15a73855/)
+
+[Twitter](https://twitter.com/jaybeekeeper)
+
+[Glitch](https://glitch.com/@jarretbryan)
+
+[Dev.to](https://dev.to/jaybeekeeper)
