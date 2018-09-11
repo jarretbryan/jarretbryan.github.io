@@ -16,7 +16,7 @@ Coming Soon...
 
 [Github](https://github.com/jarretbryan)
 
-[LinkedIn](https://www.linkedin.com/in/jarret-bryan-15a73855/)
+[LinkedIn](https://www.linkedin.com/in/jarretbryan/)
 
 [Twitter](https://twitter.com/jaybeekeeper)
 
