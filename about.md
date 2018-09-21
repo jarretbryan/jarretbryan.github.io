@@ -8,7 +8,25 @@ permalink: /about/
 
 
 ## Projects:
-Coming Soon...
+
+*RadioWired* - [Github](https://github.com/jarretbryan/RadioWired) | Demo
+A podcast discovery application and playlist generator
++ Crafted dynamic front end using React & Redux
++ Developed backend API with Rails using MVC Pattern
++ Leveraged ListenNotes API to source Podcast content
++ Integrated JWT gem to manage User Authentication
+
+
+*The Driving Dead* - [Github](https://github.com/sreemudunuri/crazyLyft) | [Demo](https://the-driving-dead.surge.sh/) | [Video](https://www.youtube.com/watch?v=dBvCOW5FHKU&t=76s)
+An in browser Javascript game inspired by Crazy Taxi & Pac-Man
++ Dictated game logic with Javascript and HTML5 Canvas
++ Used Bootstrap and custom CSS to style frontend
++ Built backend API to manage user scores with Rails and MVC Pattern
+
+*water-me* - [Github](https://github.com/jarretbryan/water-me) | [Live](https://water-me.glitch.me/)
+an emoji garden
++ built with choo
++ css styling done with tachyons 
 
 ### Contact Me:
 
